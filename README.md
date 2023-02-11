@@ -15,4 +15,4 @@ The project is made for [_Udacity_](https://www.udacity.com/)'s [**Front End Web
 
 ## Author
 
-The code was written by Jeff, based on starter code given for the project by Udacity.# Udacity-Frontend-Nanodegree-Project
+The code was written by Hamzah Alghamdi, based on starter code given for the project by Udacity. #Udacity-Frontend-Nanodegree-Project
